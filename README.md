@@ -1,4 +1,6 @@
+
 <h1><img src="https://github.com/Parply/Parply/blob/master/.github/Hi.gif?raw=true" width="30px">HELLO I'M RODIGO</h1>
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIF91NKtvEvUKoCPMiqvSnAjfjeuyNI4QJByHzQB1jGYWzvQrEL0iUSWFybCq2KyNcTWbwjtGnYCHoXH3thTXgL-4Rth2rooNUfxwLhyphenhyphenrezpVZm0f91-8EUqr3kLAZ34CVi81PATa-sME/s749/01234.gif" width="2000" height="200"/>
 <p>Hello, my name is Rodrigo, a student of electronic engineering at the glorious FNI in Oruro, Bolivia. My areas of expertise are: web development, embedded systems development, video game development, process automation. In the process of learning: development of AI models, neural networks and development of mobile applications and much more.</p>
 <h2>Languages ​​I use:</h2>
 <p align=center>
@@ -13,7 +15,7 @@
 </p>
 <h2>Softwares:</h2>
 <p align=center>
-	<img src="https://www.puntoflotante.net/mplab.jpg" width="50" height="50" />
+	<img src="https://www.puntoflotante.net/mplab.jpg" width="50" height="50"/>
 	<img src="https://my-web-note.com/wp-content/uploads/2021/04/technology_memo_mplab_x_ide.png" width="50" height="50" />
 	<img src="https://w7.pngwing.com/pngs/512/824/png-transparent-visual-studio-code-hd-logo-thumbnail.png" width="50" height="50" />
 	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/2048px-Godot_icon.svg.png" width="50" height="50" />
