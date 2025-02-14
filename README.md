@@ -16,7 +16,7 @@
   	<img src="https://i.pinimg.com/736x/13/40/7c/13407c12f50f08d328800c3caef43f61.jpg" width="50" height="50" />
 	
 </p>
-<h2>Softwares:</h2>
+<h2>Software:</h2>
 <p align=center>
 	<img src="https://www.puntoflotante.net/mplab.jpg" width="50" height="50"/>
 	<img src="https://my-web-note.com/wp-content/uploads/2021/04/technology_memo_mplab_x_ide.png" width="50" height="50" />
