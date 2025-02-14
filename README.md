@@ -1,6 +1,9 @@
 
 <h1><img src="https://github.com/Parply/Parply/blob/master/.github/Hi.gif?raw=true" width="30px">HELLO I'M RODIGO</h1>
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIF91NKtvEvUKoCPMiqvSnAjfjeuyNI4QJByHzQB1jGYWzvQrEL0iUSWFybCq2KyNcTWbwjtGnYCHoXH3thTXgL-4Rth2rooNUfxwLhyphenhyphenrezpVZm0f91-8EUqr3kLAZ34CVi81PATa-sME/s749/01234.gif" width="2000" height="200"/>
+<div align="center">
+	<img src="https://i0.wp.com/hipertextual.com/wp-content/uploads/2011/08/8800_CPU.jpg?resize=780%2C469&quality=70&strip=all&ssl=1"/>
+</div>
+<h4>Information:</h4>
 <p>Hello, my name is Rodrigo, a student of electronic engineering at the glorious FNI in Oruro, Bolivia. My areas of expertise are: web development, embedded systems development, video game development, process automation. In the process of learning: development of AI models, neural networks and development of mobile applications and much more.</p>
 <h2>Languages ​​I use:</h2>
 <p align=center>
