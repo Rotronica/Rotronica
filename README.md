@@ -1,4 +1,3 @@
-
 <h1><img src="https://github.com/Parply/Parply/blob/master/.github/Hi.gif?raw=true" width="30px">HELLO I'M RODIGO</h1>
 <div align="center">
 	<img src="https://i0.wp.com/hipertextual.com/wp-content/uploads/2011/08/8800_CPU.jpg?resize=780%2C469&quality=70&strip=all&ssl=1"/>
@@ -26,4 +25,7 @@
   	<img src="https://olimex.wordpress.com/wp-content/uploads/2017/06/arduino-logo-circle-thumb.png?w=584" width="50" height="50" />
    	<img src="https://i.pinimg.com/474x/5e/e5/9a/5ee59ad347ccef2d6fa2e030b014da3f.jpg" width="50" height="50" />
 	
+</p>
+<p align=center>
+	<img src="https://i.gifer.com/origin/dc/dc4cbbd41f417ce4fdfa106d2a7fbf52_w200.gif"/> 
 </p>
