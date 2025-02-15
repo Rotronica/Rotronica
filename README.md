@@ -1,4 +1,4 @@
-<h1><img src="https://github.com/Parply/Parply/blob/master/.github/Hi.gif?raw=true" width="30px">HELLO I'M RODIGO</h1>
+<h1><img src="https://github.com/Parply/Parply/blob/master/.github/Hi.gif?raw=true" width="30px">HELLO I'M RODRIGO</h1>
 <div align="center">
 	<img src="https://i0.wp.com/hipertextual.com/wp-content/uploads/2011/08/8800_CPU.jpg?resize=780%2C469&quality=70&strip=all&ssl=1"/>
 </div>
